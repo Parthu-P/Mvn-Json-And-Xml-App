@@ -1,0 +1,11 @@
+{
+	"id": 101,
+	"name": "John",
+	"email": "John@gmail.com",
+	"phno": 898676578,
+	"add": {
+		"city": "Hyd",
+		"state": "TN",
+		"country": "Indian"
+	}
+}
